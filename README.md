@@ -11,6 +11,10 @@ A Canvas based whiteboard editor that is build with React? It is possible to cre
 
 **excalidraw** \
 https://github.com/excalidraw/excalidraw \
-The most sophisticated editor found that appears to has the most features. The emphasis is clear to mimic handdrawn, paper like style graphics. Through, it is possible with a few adjustments to make it look more professional. While extendable, it appears to be rather complex.
+A more sophisticated editor found that appears to have more features. The emphasis is clear to mimic handdrawn, paper like style graphics. Through, it is possible with a few adjustments to make it look more professional. While extendable, it appears to be rather complex.
+
+**drawio** \
+https://github.com/jgraph/drawio \
+The most full featured editor with a more classical old style look. There are no collbration feature in the source code and is intended to use as-is. It is not recomended to use as a library or extend upon it.
 
 Forgot anything? Please file an Issue or make a Pull request if there are any other similar editors!
