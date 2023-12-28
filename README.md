@@ -1,5 +1,5 @@
 # jschartlibraries
-Here is a collection of diagram, chart, flowchart, whiteboard and similiar editors. Some of these appear to be difficult to search on internet search engines. Ideally, they should be able to, but I am at the moment unsure of it they can, run on a webbrowser client usin javascript togheter with SVG, Canvas, or similiar techonogy.
+Here is a collection of diagram, chart, flowchart, whiteboard and similiar editors. Some of these appear to be difficult to search on internet search engines. Ideally, they should be able to, but I am at the moment unsure of it they can, run on a webbrowser client usin javascript togheter with SVG, Canvas, or similiar techonogy. Note that the description is subjective from this repository author, it might differ from actual fact. Is anything is incorrect, please file an issue.
 
 **Dgrm.net** \
 https://github.com/AlexeyBoiko/DgrmJS \
